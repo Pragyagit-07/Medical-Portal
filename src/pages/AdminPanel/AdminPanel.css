@@ -1,0 +1,43 @@
+.adminpanel-container{
+    max-width: 80vw;
+        width: 70px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        /* align-items: center;
+        justify-content: space-between;
+        background-color: antiquewhite; */
+    }
+    .adminpanel-container h3{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    
+     .registerdoctor-container  span{
+ align-items: center;
+justify-content: center;
+    }
+    @media screen and (min-width:800px) {
+        .adminpanel-container{
+            width: 500px;
+        }
+    } 
+     /* .searchdoctor-container span{
+        align-items: center;
+justify-content: center;
+    }
+    @media screen and (min-width:800px) {
+        .searchrdoctor-container{
+            width: 500px;
+        }
+    } 
+     .searchpatient-container span{
+        align-items: center;
+justify-content: center;
+    }
+    @media screen and (min-width:800px) {
+        .searchrpatient-container{
+            width: 500px;
+        }
+    }  */

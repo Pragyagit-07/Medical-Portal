@@ -1,0 +1,29 @@
+.registerdoctor-container{
+    max-width: 70vw;
+        width: 70px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        align-items: center;
+        justify-content: space-between;
+        background-color: antiquewhite;
+    }
+    .registerdoctor-container h2{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .registerdoctor-container  span{
+        align-items: center;
+       justify-content: center;
+           }
+    
+    .registerdoctor-container  span{
+ align-items: center;
+justify-content: center;
+    }
+    @media screen and (min-width:800px) {
+        .registerdoctor-container{
+            width: 500px;
+        }
+    }
