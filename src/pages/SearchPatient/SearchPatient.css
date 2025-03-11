@@ -1,0 +1,18 @@
+.searchpatient-container{
+    margin:20px auto;
+    max-width: 70vw;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    
+}
+.searchpatient-container h2{
+    font-size: 24px;
+    margin-bottom: 20px;
+    
+}
+@media  screen and(min-width:800px ) {
+    .searchdoctor-container{
+        width:500px;
+    }
+}
